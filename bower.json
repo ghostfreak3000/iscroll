@@ -1,0 +1,12 @@
+{
+  "name": "iscroll",
+  "version": "5.1.3",
+  "main": "build/iscroll.js",
+  "ignore":[
+    "*",
+    "**/**",
+    "!/build/**",
+    "!/README.*",
+    "!/LICENSE"
+  ]
+}
